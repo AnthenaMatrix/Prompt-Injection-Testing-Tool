@@ -23,7 +23,7 @@ The script takes as input a system prompt content, a file containing user prompt
 
 ## Example Usage
 Terminal:
-python prompt_injection_testing.py
+python testingtool.py
 
 
 ## Disclaimer
